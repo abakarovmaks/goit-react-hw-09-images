@@ -1,0 +1,24 @@
+.button {
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #3f51b5;
+  transition: all 250ms ease-in-out;
+  text-align: center;
+  display: inline-block;
+  color: #fff;
+  border: 0;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 18px;
+  line-height: 24px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  min-width: 180px;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #646eaf;
+}
